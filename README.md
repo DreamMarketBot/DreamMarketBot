@@ -191,7 +191,7 @@ DreamMarketBot/
 | **Store** | [dreammarkets.shop](https://dreammarkets.shop) |
 | **X** | `pending` |
 | **DREAM token (CA)** | `pending` |
-| **Bot wallet** | `pending` |
+| **Bot wallet** | `DREAMh7q1Vu2Gonkeo47xPRpwg95gLYoyVVcrNJ4Hgza` |
 | **Explorer** | `pending` |
 | **Trade** | `pending` |
 | **Docs** | `pending` |
